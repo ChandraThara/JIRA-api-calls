@@ -1,0 +1,12 @@
+{
+  "fields":{
+    "project":{
+      "key": "RES"
+    },
+    "summary":"Creating 2nd JIRA issue from Automation framework",
+    "description":"Creating 2nd JIRA issue from Automation framework",
+    "issuetype":{
+      "name":"Bug"
+    }
+  }
+}
